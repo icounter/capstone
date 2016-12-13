@@ -1,0 +1,69 @@
+
+
+
+"!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">"
+"html xmlns=""http://www.w3.org/1999/xhtml"">"
+head>
+"meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />"
+title>Error</title>
+"link type=""text/css"" rel=""stylesheet"" href=""/blk-one-assets/cache-1478532770000/include/errors/assets/error.css"" />"
+"link type=""image/x-icon"" href=""/blk-one-assets/cache-1478532770000/include/errors/assets/favicon.ico"" rel=""shortcut icon"">"
+/head>
+
+"body id=""uk-retail"" class=""blkPage"">"
+
+"<div class=""ls-canvas homePage3"" id=""siteWrapper""> <!-- Start site wrapper -->"
+
+"   	<div class=""ls-row ls-fxr"" id=""mastheadWrapper""> <!-- Start Masthead -->"
+"           <div data-componentname=""Masthead"">"
+"               <div class=""accLink""><a href=""#skipMasthead"">Skip Masthead</a></div>"
+"               <a class=""logo"" href=""/"" title=""BlackRock"">"
+"                   <img src=""/blk-one-assets/cache-1478532770000/include/errors/assets/blackrock_logo.png"" alt=""BlackRock"">"
+               </a>
+"               <a name=""skipMasthead""><!-- skip masthead link --></a>"
+           </div>
+       </div> <!-- End Masthead -->
+       
+"       <div class=""ls-row ls-fxr"" id=""navWrapper""> <!-- Start nav -->"
+"       	<div class=""ls-area"" id=""globalNavigation""> "
+"               <div class=""accLink""><a href=""#skipMegamenu"">Skip Megamenu</a></div>"
+"               <ul id=""navTree"" data-componentname=""Mega Menu"">"
+"                   <li class=""dropdown""><a class=""topLevel"" href=""/us-ishares"">Home</a></li>"
+               </ul>
+"               <a name=""skipMegamenu""><!-- skip megamenu link --></a>"
+           </div>
+       </div> <!-- End nav -->
+       
+"       <div class=""ls-row ls-fxr"" id=""mainWrapper"">"
+"           <div class=""title"" data-componentname=""Page Title"">"
+"           	<h1 class=""icon-alert""><strong>Not Found</strong></h1>"
+		</div>
+"           <div class=""article"">"
+               <p>Please try to access the site again shortly.</p>
+               <p>If the problem persists please contact us either by email or phone during normal business hours:</p><br/>
+               
+               <p><b>US</b></p>
+"               <p>Email: <a href=""mailto:contact.us@blackrock.com"">contact.us@blackrock.com</a> </p>"
+               <p>877-ASK-1BLK (877-275-1255)</p>
+               
+               <p><b>UK and Europe</b></p>
+"               <p>Email: <a href=""mailto:uk.investor@blackrock.com"">uk.investor@blackrock.com</a> </p>"
+               <p>0800 440 55 22</p>
+               
+               <p><b>Asia Pacific</b></p>
+"               <p>Email: <a href=""mailto:clientservice.asiapac@blackrock.com"">clientservice.asiapac@blackrock.com</a> </p>"
+               <p>+ 852 3903 2688</p>
+               
+               <p><b>Institutional</b></p>
+"               <p><a href=""mailto:institutional.enquiries@blackrock.com"">institutional.enquiries@blackrock.com</a> or contact your account manager</p><br/>"
+          	</div>
+       </div>
+
+"	<div class=""ls-row ls-fxr"" id=""footerWrapper"">"
+"       	<div class=""ls-area"" id=""footerBottom"">"
+"			<div id=""copyright"">&copy; 2014 BlackRock Inc. All rights reserved.</div>"
+           </div>
+       </div>
+</div>
+/body>
+/html
